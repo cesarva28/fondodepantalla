@@ -11,4 +11,5 @@
   "FileName": "index.html",
   "Arguments": "--system-information",
   "IsAbsolutePath": false
+  "Arguments": "--audio",
 }
