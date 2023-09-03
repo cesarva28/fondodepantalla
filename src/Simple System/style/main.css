@@ -17,7 +17,7 @@ body {
 
 .bg {
 	/* The image used */
-	background-image: url("../textures/pcmr.png");
+	background-image: url("https://www.lenovo.com/medias/lenovo-laptops-ideapad-5-15in-intel-gallery-16.jpg?context=bWFzdGVyfHJvb3R8MTY2NzY2fGltYWdlL2pwZ3xoNzQvaGY2LzEwNzQ2MjIzMTY1NDcwLmpwZ3wyOWUwZTViYzEyODc1MzRkN2NhODUzNTQ5Y2ZkYjkxMThhOWUwNTMzOWY3NzU1NGY5MTUyMDAzOWUzMmYzNGUx");
 
 	/* Full height */
 	height: 100%;
